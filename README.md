@@ -1,0 +1,1 @@
+# Restaurant app UI in Next.js, Typescript, Tailwind.CSS
